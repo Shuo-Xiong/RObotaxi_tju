@@ -1,2 +1,0 @@
-beginner_tutorials
--DCATKIN_DEVEL_PREFIX=/media/allen/SSD/Robotaxi_tju/devel -DCMAKE_INSTALL_PREFIX=/media/allen/SSD/Robotaxi_tju/install -G Unix Makefiles
