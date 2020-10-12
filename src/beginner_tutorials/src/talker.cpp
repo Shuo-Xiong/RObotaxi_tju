@@ -5,6 +5,7 @@
 
 /**
  * This tutorial demonstrates simple sending of messages over the ROS system.
+ * xongshuo
  */
 int main(int argc, char **argv)
 {
